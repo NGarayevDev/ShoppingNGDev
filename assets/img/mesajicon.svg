@@ -1,0 +1,11 @@
+<svg width="46" height="46" viewBox="0 0 46 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="btn-BURGER / on-white / ghost_color">
+<rect x="0.5" y="0.5" width="45" height="45" rx="11.5" fill="white"/>
+<rect x="0.5" y="0.5" width="45" height="45" rx="11.5" stroke="#DEDFE7"/>
+<g id="Group 4">
+<path id="Vector 5" d="M33.5 32.191V23C33.5 21.067 31.933 19.5 30 19.5H22C20.067 19.5 18.5 21.067 18.5 23V27C18.5 28.933 20.067 30.5 22 30.5H30C30.0776 30.5 30.1542 30.5181 30.2236 30.5528L33.5 32.191Z" stroke="#0A4ECB" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 6" d="M12.5 29.191V17C12.5 15.067 14.067 13.5 16 13.5H26C27.933 13.5 29.5 15.067 29.5 17V23C29.5 24.933 27.933 26.5 26 26.5H18C17.9224 26.5 17.8458 26.5181 17.7764 26.5528L12.5 29.191Z" fill="white" stroke="#0A4ECB" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 7" d="M17.5 18.5H24.5M17.5 21.5H21.5" stroke="#0A4ECB" stroke-linecap="round"/>
+</g>
+</g>
+</svg>

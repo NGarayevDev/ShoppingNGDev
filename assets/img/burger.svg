@@ -1,0 +1,11 @@
+<svg width="46" height="46" viewBox="0 0 46 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="btn-BURGER / on-white / ghost_color">
+<rect x="0.5" y="0.5" width="45" height="45" rx="11.5" fill="white"/>
+<rect x="0.5" y="0.5" width="45" height="45" rx="11.5" stroke="#DEDFE7"/>
+<g id="Group">
+<rect id="Rectangle" x="15" y="16" width="16" height="1" rx="0.5" fill="#0A4ECB"/>
+<rect id="Rectangle_2" x="15" y="28" width="16" height="1" rx="0.5" fill="#0A4ECB"/>
+<rect id="Rectangle_3" x="15" y="22" width="16" height="1" rx="0.5" fill="#0A4ECB"/>
+</g>
+</g>
+</svg>
